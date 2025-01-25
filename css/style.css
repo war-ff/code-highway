@@ -95,11 +95,11 @@ a {
 }
 
 .pt-70 {
-    padding-top: 70px;
+    padding-top: 56px;
 }
 
 .pb-70 {
-    padding-bottom: 70px;
+    padding-bottom: 56px;
 }
 
 /* section top course */
@@ -124,7 +124,6 @@ a {
 
 .course-box {
     background-color: #fff;
-    border-left: 1px solid rgb(98 51 143 / 15%);
     border-radius: 10px;
     padding: 24px;
     text-align: center;
@@ -531,4 +530,9 @@ a {
     color: #fff;
     text-align: center;
     padding: 8px 0;
+}
+.top-courses .course-box{
+    background-color:rgb(187 187 187 / 7%);
+    box-shadow: 0 2px 6px rgba(187, 187, 187, 0.15),
+                0 1px 3px rgba(187, 187, 187, 0.12);
 }
