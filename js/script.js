@@ -1,4 +1,4 @@
-$('#course-show-slider').owlCarousel({
+/*$('#course-show-slider').owlCarousel({
     loop: false,
     dots: false,
     nav: true,
@@ -38,3 +38,4 @@ $('#course-show-slider').owlCarousel({
         }
     }
 })
+*/
